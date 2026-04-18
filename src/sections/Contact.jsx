@@ -71,19 +71,19 @@ const Contact = () => {
           <div className="space-y-4">
              <div className="flex items-center space-x-3 text-gray-300">
                <span className="text-purple-400 text-xl text-center w-6">📞</span>
-               <p>+91 9876543210</p>
+               <p>+91 9308754906</p>
              </div>
              <div className="flex items-center space-x-3 text-gray-300">
                <span className="text-purple-400 text-xl text-center w-6">📧</span>
-               <p>deepak@example.com</p>
+               <p>deepakkr93087@gmail.com</p>
              </div>
              <div className="flex items-center space-x-3 text-gray-300">
                <span className="text-purple-400 text-xl text-center w-6">🔗</span>
-               <a href="https://linkedin.com/in/" target="_blank" rel="noopener noreferrer" className="hover:text-purple-400 transition-colors">LinkedIn</a>
+               <a href="linkedin.com/in/deepak-kumar-58273a264" target="_blank" rel="noopener noreferrer" className="hover:text-purple-400 transition-colors">LinkedIn</a>
              </div>
              <div className="flex items-center space-x-3 text-gray-300">
                <span className="text-purple-400 text-xl text-center w-6">💻</span>
-               <a href="https://github.com/deepakkumar" target="_blank" rel="noopener noreferrer" className="hover:text-purple-400 transition-colors">GitHub</a>
+               <a href="https://github.com/deepak-kumar9308" target="_blank" rel="noopener noreferrer" className="hover:text-purple-400 transition-colors">GitHub</a>
              </div>
           </div>
         </motion.div>
