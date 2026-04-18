@@ -1,0 +1,40 @@
+[
+  {
+  "id": 1,
+  "title": "Appointment Management System",
+  "description": "A full-stack web application for managing appointments with authentication, scheduling, and REST API integration. Designed with scalable backend architecture and clean UI.",
+  "image": "ADD_A_DASHBOARD_IMAGE_HERE",
+  "tags": ["Full Stack", "Node.js", "Express", "MongoDB", "REST API"],
+  "github": "https://github.com/deepak-kumar9308/Appointment_management_system",
+  "live": "#",
+  "featured": true
+},
+{
+  "id": 2,
+  "title": "Gomoku AI Game Engine",
+  "description": "An AI-powered Gomoku game engine built using Python with intelligent move logic, win detection algorithms, and grid-based gameplay.",
+  "image": "ADD_GOMOKU_IMAGE_HERE",
+  "tags": ["Python", "AI Logic", "Game Dev", "DSA"],
+  "github": "https://github.com/deepak-kumar9308/miniGomukop-Engline",
+  "live": "#",
+  "badge": "AI Project"
+},
+  {
+    "id": 3,
+    "title": "Spotify Web Clone",
+    "description": "A high-performance frontend clone of the Spotify web player. Built using React and the Context API for seamless state management. Integrates with the Spotify REST API to fetch data and render a beautiful, responsive UI.",
+    "image": "https://images.unsplash.com/photo-1614680376593-902f74a5cecb?auto=format&fit=crop&q=80&w=800",
+    "tags": ["React", "Context API", "REST API", "UI/UX"],
+    "github": "https://github.com/deepak-kumar9308/Spotify-Clone",
+    "live": "#"
+  },
+  {
+    "id": 4,
+    "title": "Text-to-Speech Converter",
+    "description": "A powerful offline Text-to-Speech conversion engine built with Python and Tkinter. Features offline functionality with advanced controls for adjusting voice profiles, speech speed, and playback volume.",
+    "image": "https://images.unsplash.com/photo-1528318269466-51208920155b?auto=format&fit=crop&q=80&w=800",
+    "tags": ["Python", "Tkinter", "Offline Toolkit"],
+    "github": "https://github.com/deepak-kumar9308/Text-to-Speach",
+    "live": "#"
+  }
+]
