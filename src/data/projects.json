@@ -6,7 +6,7 @@
   "image": "ADD_A_DASHBOARD_IMAGE_HERE",
   "tags": ["Full Stack", "Node.js", "Express", "MongoDB", "REST API"],
   "github": "https://github.com/deepak-kumar9308/Appointment_management_system",
-  "live": "#",
+  "live": "https://appointment-management-system-eight.vercel.app/",
   "featured": true
 },
 {
@@ -26,7 +26,7 @@
     "image": "https://images.unsplash.com/photo-1614680376593-902f74a5cecb?auto=format&fit=crop&q=80&w=800",
     "tags": ["React", "Context API", "REST API", "UI/UX"],
     "github": "https://github.com/deepak-kumar9308/Spotify-Clone",
-    "live": "#"
+    "live": "https://deepak-kumar9308.github.io/Spotify-Clone/"
   },
   {
     "id": 4,
