@@ -36,9 +36,9 @@ const Navbar = () => {
       <div className="container mx-auto px-6 md:px-12 flex justify-between items-center">
         <a href="#home" className="text-2xl font-bold tracking-tighter cursor-pointer">
           <span className="bg-gradient-to-r from-purple-500 to-pink-500 bg-clip-text text-transparent">
-            DEV
+            Deepak
           </span>
-          .XYZ
+          kr
         </a>
 
         {/* Desktop Nav */}
