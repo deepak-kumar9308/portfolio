@@ -79,7 +79,7 @@ const Contact = () => {
              </div>
              <div className="flex items-center space-x-3 text-gray-300">
                <span className="text-purple-400 text-xl text-center w-6">🔗</span>
-               <a href="linkedin.com/in/deepak-kumar-58273a264" target="_blank" rel="noopener noreferrer" className="hover:text-purple-400 transition-colors">LinkedIn</a>
+               <a href="https://www.linkedin.com/in/deepak-kumar-58273a264/" target="_blank" rel="noopener noreferrer" className="hover:text-purple-400 transition-colors">LinkedIn</a>
              </div>
              <div className="flex items-center space-x-3 text-gray-300">
                <span className="text-purple-400 text-xl text-center w-6">💻</span>
